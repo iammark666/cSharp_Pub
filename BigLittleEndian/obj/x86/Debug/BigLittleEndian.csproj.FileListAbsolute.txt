@@ -1,0 +1,16 @@
+D:\Software_WorkSpace\VS2010\C_Sharp_Crypto\BigLittleEndian\BigLittleEndian\obj\x86\Debug\BigLittleEndian.Form1.resources
+D:\Software_WorkSpace\VS2010\C_Sharp_Crypto\BigLittleEndian\BigLittleEndian\obj\x86\Debug\BigLittleEndian.Properties.Resources.resources
+D:\Software_WorkSpace\VS2010\C_Sharp_Crypto\BigLittleEndian\BigLittleEndian\obj\x86\Debug\BigLittleEndian.csproj.GenerateResource.Cache
+D:\Software_WorkSpace\VS2010\C_Sharp_Crypto\BigLittleEndian\BigLittleEndian\bin\Debug\BigLittleEndian.exe
+D:\Software_WorkSpace\VS2010\C_Sharp_Crypto\BigLittleEndian\BigLittleEndian\bin\Debug\BigLittleEndian.pdb
+D:\Software_WorkSpace\VS2010\C_Sharp_Crypto\BigLittleEndian\BigLittleEndian\obj\x86\Debug\BigLittleEndian.exe
+D:\Software_WorkSpace\VS2010\C_Sharp_Crypto\BigLittleEndian\BigLittleEndian\obj\x86\Debug\BigLittleEndian.pdb
+B:\BaiduNetdiskDownload\百度网盘\BigLittleEndian\BigLittleEndian\BigLittleEndian\bin\Debug\BigLittleEndian.exe
+B:\BaiduNetdiskDownload\百度网盘\BigLittleEndian\BigLittleEndian\BigLittleEndian\bin\Debug\BigLittleEndian.pdb
+B:\BaiduNetdiskDownload\百度网盘\BigLittleEndian\BigLittleEndian\BigLittleEndian\obj\x86\Debug\BigLittleEndian.csprojAssemblyReference.cache
+B:\BaiduNetdiskDownload\百度网盘\BigLittleEndian\BigLittleEndian\BigLittleEndian\obj\x86\Debug\BigLittleEndian.Form1.resources
+B:\BaiduNetdiskDownload\百度网盘\BigLittleEndian\BigLittleEndian\BigLittleEndian\obj\x86\Debug\BigLittleEndian.Properties.Resources.resources
+B:\BaiduNetdiskDownload\百度网盘\BigLittleEndian\BigLittleEndian\BigLittleEndian\obj\x86\Debug\BigLittleEndian.csproj.GenerateResource.cache
+B:\BaiduNetdiskDownload\百度网盘\BigLittleEndian\BigLittleEndian\BigLittleEndian\obj\x86\Debug\BigLittleEndian.csproj.CoreCompileInputs.cache
+B:\BaiduNetdiskDownload\百度网盘\BigLittleEndian\BigLittleEndian\BigLittleEndian\obj\x86\Debug\BigLittleEndian.exe
+B:\BaiduNetdiskDownload\百度网盘\BigLittleEndian\BigLittleEndian\BigLittleEndian\obj\x86\Debug\BigLittleEndian.pdb
